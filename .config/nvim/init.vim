@@ -28,7 +28,6 @@ Plug 'neovim/nvim-lspconfig'
 Plug 'xbase-lab/xbase', { 'do': 'make install' }
 "Plug 'https://github.com/wincent/command-t' " Command T
 Plug 'https://github.com/tpope/vim-fugitive' " Git Integration
-"Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'ibhagwan/fzf-lua'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
